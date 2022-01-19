@@ -1,0 +1,34 @@
+.item-form {
+    color:#7b3f88;
+    display: flex;
+    justify-content: center;
+    margin: 7px;
+}
+
+.label-form {
+    width: 670px;
+    border: 1px #7b3f88 solid;
+    height: 30px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px;
+    font-weight: bold;
+}
+
+.delete-form {
+    color: #7b3f88;
+    font-weight: bold;
+    background: transparent;
+    border: 1px solid #7b3f88;
+    cursor: pointer;
+}
+
+.delete-form:hover{
+    background: white;
+    border: 1px solid white
+}
+
+.check-form {
+    height: 25px;
+}
